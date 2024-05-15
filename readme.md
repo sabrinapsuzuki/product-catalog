@@ -12,7 +12,7 @@ Antes de usar este sistema, certifique-se de ter o Node.js e o npm (gerenciador 
 2. Navegue até o diretório do projeto no terminal.
 3. Instale as dependências de cada parte do sistema:
    - Para a API de catálogo de produtos, vá para a pasta "back" e execute `npm install`.
-   - Para a aplicação frontend, vá para a pasta "product-catalog" e execute `npm install`.
+   - Para a aplicação frontend, vá para a pasta "product-catalog-front" e execute `npm install`.
 4. Certifique-se de que a API de catálogo de produtos esteja em execução localmente, conforme descrito no README fornecido para a parte do servidor.
 5. Após a instalação das dependências, você pode iniciar cada parte do sistema:
    - Para iniciar a API de catálogo de produtos, vá para a pasta "back" e execute `npm start`.
