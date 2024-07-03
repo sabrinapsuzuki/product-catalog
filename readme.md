@@ -23,4 +23,5 @@ Antes de usar este sistema, certifique-se de ter o Node.js e o npm (gerenciador 
 
 - **API de Catálogo de Produtos (back)**: Fornece endpoints para buscar detalhes de produtos com base em seus códigos. Consulte o README dentro da pasta "back" para obter mais informações sobre como usar a API.
   
-- **Aplicação Frontend (product-catalog)**: Permite aos usuários inserir o código de um produto em um campo de entrada e, em seguida, pressionar o botão "Buscar" para buscar informações sobre o produto. Se o produto for encontrado, ele exibirá o nome do produto, o preço e uma imagem correspondente.
+- **Aplicação Frontend (product-catalog)**: Permite aos usuários cadastro, edição e visualização de produtos.
+
