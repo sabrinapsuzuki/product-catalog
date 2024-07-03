@@ -26,7 +26,7 @@ const CadastroPage = () => {
   };
 
   return (
-    <div className="container mx-auto mt-8">
+    <div className="container mx-auto mt-8 px-4">
       <h2 className="text-2xl font-bold mb-4">Cadastro de Produto</h2>
       {mensagem && <p className="text-green-600 mb-4">{mensagem}</p>}
       <form onSubmit={handleSubmit} className="max-w-lg">
