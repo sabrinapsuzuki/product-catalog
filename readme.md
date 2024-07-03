@@ -1,5 +1,4 @@
-# Sistema de Catálogo de Produtos | em desenvolvimento
-
+# Sistema de Catálogo de Produtos
 Este é um sistema simples que consiste em uma API de catálogo de produtos (na pasta "back") e uma aplicação frontend para buscar e exibir detalhes de produtos (na pasta "product-catalog"). O sistema permite aos usuários buscar informações sobre produtos com base em seus códigos.
 
 ## Pré-requisitos
